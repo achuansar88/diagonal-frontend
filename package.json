@@ -1,7 +1,7 @@
 {
   "name": "diagonal-frontend",
   "version": "0.1.0",
-  "homepage": "http://achuansar88.github.io/diagonal-frontend",
+  "homepage": "https://achuansar88.github.io/diagonal-frontend/",
   "private": true,
   "dependencies": {
     "@types/jest-diff": "^20.0.0",
