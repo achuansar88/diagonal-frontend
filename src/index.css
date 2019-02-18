@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.ant-list * {
+  color: white;
+  outline: none;
+}
+.anticon {
+  display: inline-block;
+  font-style: normal;
+  line-height: 0;
+  text-align: center;
+  text-transform: none;
+  vertical-align: -1.125em;
+  padding-top: 40%;
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: white
+}

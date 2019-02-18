@@ -1,0 +1,6 @@
+import { string } from 'prop-types';
+
+export const ROMANTIC_COMEDIES = "ROMANTIC_COMEDIES";
+export type ROMANTIC_COMEDIES = typeof ROMANTIC_COMEDIES;
+export const ROMANTIC_COMEDIES_SEARCH = "ROMANTIC_COMEDIES_SEARCH";
+export type ROMANTIC_COMEDIES_SEARCH = typeof ROMANTIC_COMEDIES_SEARCH;
